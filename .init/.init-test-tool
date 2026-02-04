@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/unified-business-modernization-initiative-315206-315217/modernization_frontend"
+}
